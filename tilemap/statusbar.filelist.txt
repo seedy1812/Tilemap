@@ -1,0 +1,2 @@
+statusbar.tiles.png
+C:\Users\Andrew Seed\Documents\z80\tilemap_snasm\statusbar.Untitled 1.layer-Layer 1.map001.map
